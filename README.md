@@ -1,6 +1,1 @@
-I love my CO's
-
-- COffee☕ 
-- COding👾
-- COmprehending the intricate tapestry of human emotions, where empathy weaves the threads of connection into a vibrant mosaic of understanding and compassion
-- & of course COmputers 💻
+![Hi there! I´m Eva (big)](https://github.com/user-attachments/assets/b0541995-c3a9-44cb-9061-e5c0aaa49a80)
