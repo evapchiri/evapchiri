@@ -1,6 +1,6 @@
 ![Hi there! I´m Eva (big)](https://github.com/user-attachments/assets/b0541995-c3a9-44cb-9061-e5c0aaa49a80)
 
-## Where to find me
+## Find me here 🔎
 [![website](https://github.com/user-attachments/assets/7392b849-15c3-4e85-9e87-27cc4cadf377)](https://www.linkedin.com/in/eva-perez-chirinos/)
 ## A 🤏 about me
 
