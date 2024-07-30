@@ -12,4 +12,4 @@
 
 🎯 My goal is to understand how to deliver Digital Transformation strategies to businesses and harness the power of technology to make the world a bit better ⭐
 
-❤️ I love understanding human behaviour & customer-relations 🤝
+❤️ I love understanding human behaviour & the power of building trustful customer-relations 🤝
