@@ -8,7 +8,7 @@
 
 📖 My background is Anthropology and I am doing a Software Engineering Bootcamp with CodeFirstGirls 
 
-🌱 I am learning how to code apps end-to-end that make people's life more pleasant ~
+🌱 I am learning how to code apps end-to-end 
 
 🎯 My goal is to understand how to deliver Digital Transformation strategies to businesses and harness the power of technology to make the world a bit better ⭐
 
