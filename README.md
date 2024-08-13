@@ -6,10 +6,10 @@
 
 🌍 I'm originally from Spain but have lived in the UK for 7 years - who would've thought!
 
-📖 My background is Anthropology and I am doing a Software Engineering Bootcamp with CodeFirstGirls 
+📖 My background is Anthropology and I am doing a Software Engineering Bootcamp with (the amazing) CodeFirstGirls 
 
-🌱 I am learning how to code apps end-to-end 
+❤️ I love studying human behaviour & interaction with technology ⭐
 
-🎯 My goal is to understand how to deliver Digital Transformation strategies to businesses and harness the power of technology to make the world a bit better ⭐
+🌱 I am learning how to code apps end-to-end & Full Stack integration
 
-❤️ I love understanding human behaviour & the power of building trustful customer-relations 🤝
+🎯 My goal is to understand how to craft human-centred technology from the inside out! 
