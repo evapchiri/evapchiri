@@ -4,12 +4,14 @@
 [![website](https://github.com/user-attachments/assets/7392b849-15c3-4e85-9e87-27cc4cadf377)](https://www.linkedin.com/in/eva-perez-chirinos/)
 ## A 🤏 about me
 
-🌍 I'm originally from Spain but have lived in the UK for 7 years - who would've thought!
+🌍 I'm originally from Spain - and have been living in the UK for the last 8 years.
 
-📖 My background is Anthropology and I am doing a Software Engineering Bootcamp with (the amazing) CodeFirstGirls 
+❤️ I am passionate about the intesection between Technology & Human behaviour ⭐
 
-❤️ I love studying human behaviour & interaction with technology ⭐
+📖 My academic background is within Anthropology and Cultural Studies, and I have completed a Software Engineering Bootcamp with a DevOps & Cloud infrastructure extension with (the amazing) CodeFirstGirls 
 
-🌱 I am learning how to code apps end-to-end & Full Stack integration
+💼 I currently work as a Technical Support Representative @ Avalara - solving technical issues and helping cliets get the best value out of our software
 
-🎯 My goal is to understand how to craft human-centred technology from the inside out! 
+🌱 I continue to learn about Full Stack integrations and website usability
+
+🎯 My goal is to contribute in the development of efficient, human-centred technology to make a positive impact in the world
