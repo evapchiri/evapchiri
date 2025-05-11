@@ -6,7 +6,7 @@
 
 🌍 I'm originally from Spain - and have been living in the UK for the last 8 years.
 
-❤️ I am passionate about the intesection between Technology & Human behaviour ⭐
+❤️ I am passionate about the intesection between Technology, Human behaviour and different Cultural expressions ⭐
 
 📖 My academic background is within Anthropology and Cultural Studies, and I have completed a Software Engineering Bootcamp with a DevOps & Cloud infrastructure extension with (the amazing) CodeFirstGirls 
 
